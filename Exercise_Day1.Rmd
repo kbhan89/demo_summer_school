@@ -45,3 +45,6 @@ X = rnorm(n) # Create a normally distributed random variable
 mean(X)
 hist(X)
 ```
+
+Here are some nice emoji: `r emo::ji('cold_sweat')` `r emo::ji('flushed')` `r emo::ji('scream')`
+
